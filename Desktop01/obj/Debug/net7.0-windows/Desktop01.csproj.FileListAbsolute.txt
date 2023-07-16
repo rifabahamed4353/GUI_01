@@ -1,0 +1,210 @@
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+E:\Desktop\SEM 3\GUI programming\Projects\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Prism.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\bin\Debug\net7.0-windows\Prism.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\rifab\Desktop\nm\nm\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Microns.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Modern.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\bin\Debug\net7.0-windows\Prism.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\Engineering\2nd year\3rd Sem\EE5250 GUI Programming\GUI Projects\Individual\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll

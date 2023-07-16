@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tt/sU8XdKLvsxfCnF0dNOeQKaKyelJ5Dz1xxlF2yIWwic15XrPE5gXb6wifa0VSZcCPitm0sbdwLawcVpml4VA==",
+  "success": true,
+  "projectFilePath": "D:\\Engineering\\2nd year\\3rd Sem\\EE5250 GUI Programming\\GUI Projects\\Individual\\Desktop01\\Desktop01\\Desktop01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rifab\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512",
+    "C:\\Users\\rifab\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512",
+    "C:\\Users\\rifab\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}

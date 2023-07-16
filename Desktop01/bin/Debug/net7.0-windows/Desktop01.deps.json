@@ -1,0 +1,201 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Desktop01/1.0.0": {
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0-preview1",
+          "MahApps.Metro.IconPacks": "4.11.0",
+          "Prism.Core": "8.1.97"
+        },
+        "runtime": {
+          "Desktop01.dll": {}
+        }
+      },
+      "CommunityToolkit.Mvvm/8.2.0-preview1": {
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.1"
+          }
+        }
+      },
+      "MahApps.Metro.IconPacks/4.11.0": {
+        "runtime": {
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.BootstrapIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.BoxIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Codicons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Coolicons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Entypo.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.EvaIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.FeatherIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.FileIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.FontAwesome.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Fontaudio.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Fontisto.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.ForkAwesome.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Ionicons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.JamIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Material.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.MaterialDesign.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.MaterialLight.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Microns.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Modern.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Octicons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.PicolIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.PixelartIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.RPGAwesome.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.RadixIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.RemixIcon.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.SimpleIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Typicons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Unicons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.VaadinIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.WeatherIcons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.Zondicons.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/net5.0-windows7.0/MahApps.Metro.IconPacks.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          }
+        }
+      },
+      "Prism.Core/8.1.97": {
+        "runtime": {
+          "lib/net5.0/Prism.dll": {
+            "assemblyVersion": "8.1.97.5141",
+            "fileVersion": "8.1.97.5141"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desktop01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommunityToolkit.Mvvm/8.2.0-preview1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f0MRwQY95S6RB5iAe0wuDniY9duLuICr/wxS/vjKi+ZrUYlY3Tm7dAeJxhR6bn72Wd325dz29+mAgymRAdSbXw==",
+      "path": "communitytoolkit.mvvm/8.2.0-preview1",
+      "hashPath": "communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+    },
+    "MahApps.Metro.IconPacks/4.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hanveh4ZZLYZ00ONrwjyzDJnekxWcgFQ7rHHrmC7GppO3js3tAEhmW+lo0rNgG4naxkggEYZFLeH+rxeJLMSuQ==",
+      "path": "mahapps.metro.iconpacks/4.11.0",
+      "hashPath": "mahapps.metro.iconpacks.4.11.0.nupkg.sha512"
+    },
+    "Prism.Core/8.1.97": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EP5zrvWddw3eSq25Y7hHnDYdmLZEC2Z/gMrvmHzUuLbitmA1UaS7wQUlSwNr9Km8lzJNCvytFnaGBEFukHgoHg==",
+      "path": "prism.core/8.1.97",
+      "hashPath": "prism.core.8.1.97.nupkg.sha512"
+    }
+  }
+}
